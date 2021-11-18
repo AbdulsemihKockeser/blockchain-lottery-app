@@ -1,3 +1,3 @@
 # blockchain-lottery-app
 
-Blokzincir de farklı kontralarile iyango uygulaması
+Blokzincir de farklı kontratlar ile piyango uygulaması
